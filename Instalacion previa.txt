@@ -4,3 +4,6 @@ pip install opencv-contrib-python
 pip install imutils
 pip install numpy
 pip install mediapipe
+
+Descargar Dataset para la detección de mascarilla
+https://github.com/GabySol/OmesTutorials2021/tree/main/Mascarillas%20dataset/Dataset_faces
