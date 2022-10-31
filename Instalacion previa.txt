@@ -1,0 +1,6 @@
+Instalar previamente
+
+pip install opencv-contrib-python
+pip install imutils
+pip install numpy
+pip install mediapipe
